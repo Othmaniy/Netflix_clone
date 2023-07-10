@@ -1,0 +1,29 @@
+.banner{
+    color: white;
+    object-fit: contain;
+    height: 500px;
+}
+.b1,.b2{
+    width: 70px;
+    margin: 10px;
+    border: none;
+    margin-right: 8px;
+    padding: 10px;
+}
+.contents{
+    margin-left: 50px;
+    padding-top: 140px;
+    width: 500px;
+    font-size: 10px;
+    line-height: 30px;
+
+}
+.fadebutton{
+    height: 7.4rem;
+    margin: 0px;
+    position: absolute;
+    bottom: 0;
+    background-image: linear-gradient(
+        180deg,
+        transparent,rgb(37,37,0.61),rgb(1,1,1));
+}
